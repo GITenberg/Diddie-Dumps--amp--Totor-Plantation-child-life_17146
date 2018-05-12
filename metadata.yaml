@@ -20,6 +20,8 @@ creator:
     gutenberg_agent_id: '1624'
     url: http://www.gutenberg.org/2009/agents/1624
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17146#Diddie-Dumps--amp--Totor-Plantation-child-life
 gutenberg_issued: '2005-11-24'
 gutenberg_type: Text
 identifiers:
