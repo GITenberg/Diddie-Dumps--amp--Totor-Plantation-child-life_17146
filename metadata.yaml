@@ -1,0 +1,39 @@
+_repo: Diddie-Dumps--amp--Totor-Plantation-child-life_17146
+_version: 0.1.0
+alternative_title: "Diddie, Dumps and Tot\r\nor, Plantation child-life"
+contributor:
+  illustrator:
+    agent_name: Sheppard, William Ludwell
+    alias: Sheppard, W. L. (William Ludwell)
+    birthdate: 1833
+    deathdate: 1912
+    gutenberg_agent_id: '31450'
+    url: http://www.gutenberg.org/2009/agents/31450
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pyrnelle, Louise Clarke
+    birthdate: 1850
+    deathdate: 1907
+    gutenberg_agent_id: '1624'
+    url: http://www.gutenberg.org/2009/agents/1624
+description: ''
+gutenberg_issued: '2005-11-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17146'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Plantation life -- Juvenile fiction'
+- !lcsh 'African Americans -- Juvenile fiction'
+- !lcsh 'Slaves -- Juvenile fiction'
+- !lcc 'PZ'
+title: 'Diddie, Dumps & Tot
+
+  or, Plantation child-life'
+url: http://www.gutenberg.org/ebooks/17146
